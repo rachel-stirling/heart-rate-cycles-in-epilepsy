@@ -1,0 +1,509 @@
+,start_time,duration,awareness,motion,size
+0,1567230162769.5,5000,Aware,,Small
+1,1567270856662.0,5000,Aware,,Small
+2,1567332017966.0,5000,Aware,,Small
+3,1567674000523.0,30000,,,
+4,1567830631081.0,5000,Aware,,Small
+5,1567834248813.0,30000,Aware,,Normal
+6,1568302230604.0,5000,Aware,,Small
+7,1568345451544.0,120000,Impaired awareness,Motor,Big
+8,1568415637061.0,120000,Impaired awareness,Motor,Normal
+9,1569029521060.5,5000,Aware,,Small
+10,1569047172364.5,30000,Aware,Motor,Normal
+11,1569059867033.5,120000,Impaired awareness,Motor,Normal
+12,1569069056928.0,180000,Impaired awareness,Motor,Normal
+13,1569087006326.0,120000,Impaired awareness,Motor,Normal
+14,1569101423402.0,120000,Impaired awareness,Motor,Normal
+15,1569105640301.0,120000,Impaired awareness,Motor,Normal
+16,1569119451063.0,120000,Impaired awareness,Motor,Normal
+17,1569128417727.0,120000,Impaired awareness,Motor,Normal
+18,1569691856257.0,120000,Impaired awareness,Motor,Normal
+19,1569701385764.0,120000,Impaired awareness,Motor,Normal
+20,1569710199260.5,120000,Impaired awareness,Motor,Normal
+21,1569719743709.0,120000,Impaired awareness,Motor,Normal
+22,1569740239762.5,10000,Aware,Motor,Normal
+23,1569797821529.0,120000,Impaired awareness,Motor,Normal
+24,1570251632729.0,1800000,Aware,,Small
+25,1570406416104.0,120000,Impaired awareness,Motor,Normal
+26,1570478412518.0,60000,Impaired awareness,Motor,Normal
+27,1570845701693.5,5000,Aware,,Small
+28,1571272230824.0,60000,,,Normal
+29,1571324455409.0,5000,,,Small
+30,1571342414354.0,120000,Impaired awareness,Motor,Normal
+31,1571768725564.0,60000,Impaired awareness,Motor,Normal
+32,1571778946091.0,120000,Impaired awareness,Motor,Normal
+33,1571794239166.0,120000,Impaired awareness,Motor,Normal
+34,1571814042737.0,30000,Impaired awareness,Motor,Normal
+35,1571841943565.0,60000,Impaired awareness,Motor,Normal
+36,1571852742776.0,60000,Impaired awareness,Motor,Normal
+37,1572035451831.0,60000,Impaired awareness,Motor,Normal
+38,1572666706822.0,30000,Aware,,Normal
+39,1572667164136.5,60000,Impaired awareness,Motor,Normal
+40,1572675412023.5,60000,Impaired awareness,Motor,Normal
+41,1572696941566.0,60000,Impaired awareness,Motor,Normal
+42,1572714016281.0,60000,Impaired awareness,Motor,Normal
+43,1572716428255.0,60000,Impaired awareness,Motor,Normal
+44,1572738904901.0,60000,Impaired awareness,Motor,Normal
+45,1573358405384.0,5000,,,Normal
+46,1573372817346.5,60000,Impaired awareness,Motor,Normal
+47,1573385423512.0,5000,,,Normal
+48,1573399829998.0,60000,Impaired awareness,Motor,Normal
+49,1573407036843.0,60000,Impaired awareness,Motor,Normal
+50,1573425010336.0,60000,Impaired awareness,Motor,Normal
+51,1573430448874.0,60000,Impaired awareness,Motor,Normal
+52,1574017236817.0,60000,Impaired awareness,Motor,Normal
+53,1574029834706.0,60000,Impaired awareness,Motor,Normal
+54,1574042450740.0,60000,Impaired awareness,Motor,Normal
+55,1574770517561.0,5000,Aware,,Small
+56,1574868653948.0,60000,Impaired awareness,Motor,Normal
+57,1575351013392.0,60000,Impaired awareness,,Normal
+58,1576063804773.0,0,Aware,,Normal
+59,1576276258861.0,60000,Impaired awareness,,Normal
+60,1576290630760.0,60000,Aware,,Normal
+61,1576297306766.5,60000,Aware,,Normal
+62,1576369803053.0,60000,Impaired awareness,,Normal
+63,1576382401153.0,60000,Impaired awareness,,Normal
+64,1576852218624.0,60000,Aware,,
+65,1576879236624.0,30000,Aware,,Normal
+66,1576895446735.0,60000,Impaired awareness,,Normal
+67,1576902646555.0,60000,Impaired awareness,,Normal
+68,1576938641781.0,60000,Impaired awareness,,Normal
+69,1576958458887.0,30000,Aware,,Normal
+70,1576963837892.0,60000,Impaired awareness,,Normal
+71,1576980025501.0,60000,Impaired awareness,,Normal
+72,1576983655129.0,30000,Aware,,Normal
+73,1576987259666.0,60000,Impaired awareness,,Normal
+74,1576990852758.0,60000,Impaired awareness,,Normal
+75,1576998056471.0,60000,Impaired awareness,,Normal
+76,1577505605029.0,60000,Aware,,Normal
+77,1577593808156.0,5000,Aware,,Normal
+78,1577597418414.0,5000,Aware,,Normal
+79,1577603709174.0,30000,Aware,Motor,Normal
+80,1577667647920.0,5000,Aware,,Normal
+81,1577674858905.0,5000,Aware,Motor,Normal
+82,1578024009547.0,60000,Impaired awareness,Motor,Normal
+83,1578844857117.0,60000,Impaired awareness,Motor,Normal
+84,1578903312295.0,60000,Impaired awareness,Motor,Normal
+85,1579269601398.0,10000,Aware,,Normal
+86,1579273240021.0,30000,Aware,,Normal
+87,1579280406113.0,30000,Aware,Non motor,Normal
+88,1579701625382.0,10000,Aware,Motor,Normal
+89,1579788004362.0,10000,Aware,Motor,Normal
+90,1579914932137.0,0,,,
+91,1580447704401.0,60000,Aware,Motor,Normal
+92,1580535914592.0,60000,Impaired awareness,Motor,Normal
+93,1581341418974.0,30000,Aware,Motor,Normal
+94,1581355848966.0,60000,Aware,Motor,Normal
+95,1581358809595.0,60000,Aware,Motor,Normal
+96,1581409817172.0,60000,Aware,Motor,Normal
+97,1581674428962.0,2000,Aware,Motor,Normal
+98,1581735630006.0,60000,Aware,Motor,Normal
+99,1581998424550.0,60000,Impaired awareness,Motor,Normal
+100,1582038008036.0,60000,Impaired awareness,Motor,Normal
+101,1582057821239.0,60000,Impaired awareness,Motor,Normal
+102,1582230619207.0,60000,Aware,Motor,Normal
+103,1582255833322.0,30000,Aware,Motor,Normal
+104,1582443059452.0,60000,Impaired awareness,Motor,Normal
+105,1582470034349.0,60000,Impaired awareness,Motor,Normal
+106,1582512152518.5,0,,,
+107,1583294444423.0,60000,Aware,Motor,Normal
+108,1583344816797.0,60000,Impaired awareness,Motor,Normal
+109,1583355645709.0,60000,Impaired awareness,Motor,Normal
+110,1583380837236.0,30000,Aware,Motor,Normal
+111,1583407859425.0,60000,Impaired awareness,Motor,Normal
+112,1583431221795.0,60000,Impaired awareness,Motor,Normal
+113,1583931622987.0,60000,Impaired awareness,Motor,Normal
+114,1583956856975.0,60000,Impaired awareness,Motor,Normal
+115,1583962255942.0,5000,Aware,,Normal
+116,1583980213710.0,30000,Aware,,Normal
+117,1584032447438.0,60000,Impaired awareness,Motor,Normal
+118,1584037838380.0,60000,Impaired awareness,Motor,Normal
+119,1584045032809.0,60000,Aware,Motor,Normal
+120,1584720052218.0,120000,Impaired awareness,Motor,Normal
+121,1584727244816.0,30000,Aware,Motor,Normal
+122,1584730842153.0,30000,Aware,Motor,Normal
+123,1584761410480.0,60000,Impaired awareness,Motor,Normal
+124,1584837022497.0,60000,Aware,Motor,Normal
+125,1585348237973.0,60000,Impaired awareness,Motor,Normal
+126,1585366253594.0,60000,Impaired awareness,Motor,Normal
+127,1585539053526.0,60000,Aware,Motor,Normal
+128,1586280656450.0,60000,Impaired awareness,Motor,Normal
+129,1586298626350.0,60000,Impaired awareness,Motor,Normal
+130,1586313057261.0,60000,Impaired awareness,Motor,Normal
+131,1586323827895.0,60000,Impaired awareness,Motor,Normal
+132,1586475032822.0,60000,Aware,Motor,Normal
+133,1586478620105.0,60000,Aware,Motor,Normal
+134,1586593333081.5,0,,,
+135,1586813458753.0,10000,Aware,Motor,Normal
+136,1586822407148.0,30000,Aware,Motor,Normal
+137,1586826037320.0,5000,Aware,Motor,
+138,1586836837861.0,5000,Aware,Motor,Normal
+139,1586840421352.0,5000,Aware,Motor,Normal
+140,1586844053345.0,5000,Aware,Motor,Normal
+141,1586845829835.0,60000,Impaired awareness,Motor,Normal
+142,1586854855922.0,60000,Impaired awareness,Motor,Normal
+143,1586880016378.0,2000,Aware,Motor,Normal
+144,1586883605091.0,3000,Aware,Motor,Normal
+145,1586887218835.0,60000,Impaired awareness,Motor,Normal
+146,1586894403892.0,60000,Impaired awareness,Motor,Normal
+147,1586898017209.0,60000,Impaired awareness,Motor,Normal
+148,1586899811393.0,60000,Impaired awareness,Motor,
+149,1586901650366.0,60000,Impaired awareness,Motor,Normal
+150,1587598246915.0,60000,Impaired awareness,Motor,Normal
+151,1587850234208.0,3000,Aware,Motor,Normal
+152,1588116633336.0,60000,Aware,Motor,Normal
+153,1588552232113.0,60000,Impaired awareness,Motor,Normal
+154,1588620652951.0,4000,Aware,Motor,Normal
+155,1588636819424.0,60000,Impaired awareness,Motor,Normal
+156,1589259616804.0,3000,Aware,Motor,Normal
+157,1589265048734.0,60000,Impaired awareness,Motor,Normal
+158,1589274016791.0,60000,Impaired awareness,Motor,Normal
+159,1589324409426.0,60000,Impaired awareness,Motor,Normal
+160,1589329859936.0,60000,Impaired awareness,Motor,Normal
+161,1589851855403.0,60000,Impaired awareness,Motor,Normal
+162,1589855457709.0,60000,Impaired awareness,Motor,Normal
+163,1589934656995.0,60000,Impaired awareness,Motor,Normal
+164,1589935542613.0,60000,Impaired awareness,Motor,Normal
+165,1590535827561.0,60000,Impaired awareness,Motor,Normal
+166,1590546606600.0,60000,Aware,Motor,Normal
+167,1590622244128.0,60000,Impaired awareness,Motor,Normal
+168,1590629406291.0,60000,Impaired awareness,Motor,Normal
+169,1590643815820.0,60000,Impaired awareness,Motor,Normal
+170,1590650137404.0,60000,Impaired awareness,Motor,Normal
+171,1591155051954.0,60000,Aware,Motor,Normal
+172,1591471856360.0,60000,Impaired awareness,Motor,Normal
+173,1591570847827.0,60000,Impaired awareness,Motor,Normal
+174,1592521246919.0,60000,Impaired awareness,Motor,Normal
+175,1592598642585.0,5000,Aware,Motor,Normal
+176,1592614850094.0,60000,Aware,Motor,Normal
+177,1592621112496.0,60000,Aware,Motor,Normal
+178,1593048604135.0,60000,Impaired awareness,Motor,Normal
+179,1593059381276.0,60000,Aware,Motor,Normal
+180,1593126004830.0,30000,Aware,Motor,Normal
+181,1593135008581.0,60000,Impaired awareness,Motor,Normal
+182,1593385218346.0,30000,Aware,Motor,Normal
+183,1593549031272.0,120000,Impaired awareness,Motor,Normal
+184,1593559828686.0,60000,Impaired awareness,Motor,Normal
+185,1593568859151.0,60000,Impaired awareness,Motor,Normal
+186,1593574211456.0,60000,Impaired awareness,Motor,Normal
+187,1593576947002.0,60000,Impaired awareness,Motor,Normal
+188,1593577839019.0,60000,Impaired awareness,Motor,Normal
+189,1593595846513.0,60000,Impaired awareness,Motor,Normal
+190,1593597629250.0,60000,Impaired awareness,Motor,Normal
+191,1593599418292.0,30000,Aware,Motor,Normal
+192,1593600007115.0,30000,Aware,Motor,Normal
+193,1594177201568.0,30000,Aware,Motor,Normal
+194,1594323029464.0,60000,Impaired awareness,Motor,
+195,1594333802297.0,30000,Aware,Motor,Normal
+196,1594339253073.0,60000,Impaired awareness,Motor,Normal
+197,1594350021079.5,10000,Aware,Motor,Normal
+198,1594420247804.0,30000,Aware,Motor,
+199,1594422025929.0,60000,Impaired awareness,Motor,Normal
+200,1595115032709.0,60000,Impaired awareness,Motor,Normal
+201,1595125808391.0,30000,Impaired awareness,Motor,Normal
+202,1595725214337.0,60000,Impaired awareness,Motor,Normal
+203,1596302125637.0,60000,Impaired awareness,Motor,Normal
+204,1596318337766.0,60000,Impaired awareness,Motor,Normal
+205,1596332727127.0,60000,Impaired awareness,Motor,Normal
+206,1596837629904.0,5000,Aware,Motor,Normal
+207,1596843952098.0,60000,Impaired awareness,Motor,Normal
+208,1596850240251.0,60000,Impaired awareness,Motor,Normal
+209,1597264204326.0,10000,Aware,Motor,Normal
+210,1597275009315.0,60000,Impaired awareness,Motor,Normal
+211,1597449636831.0,60000,Aware,Motor,Normal
+212,1597678223309.0,3000,Aware,Motor,Normal
+213,1597739447994.0,60000,Impaired awareness,Motor,Normal
+214,1597829442484.0,60000,Impaired awareness,Motor,Normal
+215,1598317227221.0,60000,Impaired awareness,Motor,Normal
+216,1598742021537.0,60000,Aware,Motor,Normal
+217,1598918418690.0,60000,Impaired awareness,Motor,Normal
+218,1599314424694.0,60000,Impaired awareness,Motor,Normal
+219,1599615026047.0,60000,Impaired awareness,Motor,Normal
+220,1600018246577.0,60000,Impaired awareness,Motor,Normal
+221,1600126220292.0,60000,Aware,Motor,Normal
+222,1600473623966.5,60000,Impaired awareness,Motor,Normal
+223,1600776026660.0,3000,Aware,Motor,Normal
+224,1600797637717.0,3000,Aware,Motor,Normal
+225,1600808449415.0,3000,Aware,Motor,Normal
+226,1600819247177.0,60000,Impaired awareness,Motor,Normal
+227,1600824634899.0,60000,Impaired awareness,Motor,Normal
+228,1601170225949.0,2000,Aware,Motor,Normal
+229,1601173847140.0,2000,Aware,Motor,Normal
+230,1601186422128.0,2000,Aware,Motor,Normal
+231,1601195402780.0,2000,Aware,Motor,Normal
+232,1601236841058.0,60000,Impaired awareness,Motor,Normal
+233,1601253036517.0,60000,Impaired awareness,Motor,Normal
+234,1601337656352.0,60000,Impaired awareness,Motor,Normal
+235,1601863210568.0,2000,Aware,Motor,Normal
+236,1601877612429.0,2000,Aware,Motor,Normal
+237,1601929819194.0,60000,Impaired awareness,Motor,Normal
+238,1601937055102.0,60000,Impaired awareness,Motor,Normal
+239,1602460814770.0,60000,Impaired awareness,Motor,Normal
+240,1602633600243.0,60000,Aware,Motor,Normal
+241,1602705636238.0,60000,Impaired awareness,Motor,Normal
+242,1603137644701.0,60000,Impaired awareness,Motor,Normal
+243,1603139443004.0,60000,Impaired awareness,Motor,Normal
+244,1603141230140.0,60000,Impaired awareness,Motor,Normal
+245,1603143006212.0,60000,Impaired awareness,Motor,Normal
+246,1603153802594.0,60000,Impaired awareness,Motor,Normal
+247,1603591229299.0,10000,Aware,Motor,Normal
+248,1603594830888.0,30000,Aware,Motor,Normal
+249,1603612801480.0,60000,Aware,Motor,Normal
+250,1603659616527.0,60000,Impaired awareness,Motor,Normal
+251,1603663238773.0,60000,Impaired awareness,Motor,Normal
+252,1603931446835.0,5000,Aware,Motor,Normal
+253,1603935036844.0,5000,Aware,Motor,Normal
+254,1603958436006.0,3000,Aware,Motor,Normal
+255,1603962046492.0,60000,Impaired awareness,Motor,Normal
+256,1604545248258.0,2000,Aware,Motor,Normal
+257,1604548816000.0,2000,Aware,,Normal
+258,1604588400055.0,3000,Aware,,Normal
+259,1604617249907.0,120000,Impaired awareness,Motor,Normal
+260,1604754019825.0,30000,Aware,Motor,Normal
+261,1604941253520.0,3000,Aware,,Normal
+262,1604962856200.0,60000,Impaired awareness,Motor,Normal
+263,1605277804074.0,3000,Aware,,Normal
+264,1605308421323.0,60000,Impaired awareness,Motor,Normal
+265,1605588310009.0,60000,Aware,Motor,Normal
+266,1605625214847.0,2000,Aware,,Normal
+267,1605650437952.0,60000,Impaired awareness,Motor,Normal
+268,1605654917187.0,30000,Aware,Motor,Normal
+269,1606003212424.0,2000,Aware,Motor,Normal
+270,1606009526954.0,2000,Aware,Motor,Normal
+271,1606026635641.0,60000,Impaired awareness,Motor,Normal
+272,1606082422994.0,60000,Impaired awareness,Motor,Normal
+273,1606114859769.0,60000,Impaired awareness,Motor,Normal
+274,1606433424010.0,60000,Impaired awareness,Motor,Normal
+275,1606435252442.0,60000,Impaired awareness,Motor,Normal
+276,1606437017081.0,60000,Impaired awareness,Motor,Normal
+277,1606687251018.0,60000,Aware,Motor,Normal
+278,1606690859279.0,60000,Aware,Motor,Normal
+279,1607025621210.0,60000,Impaired awareness,Motor,Normal
+280,1607121910536.0,60000,Impaired awareness,Motor,Normal
+281,1607385626222.0,60000,Aware,Motor,Normal
+282,1607386522557.0,60000,Impaired awareness,Motor,Normal
+283,1607724028340.0,60000,Impaired awareness,Motor,Normal
+284,1608003008310.0,3000,Aware,Motor,Normal
+285,1608008419098.0,3000,Aware,Motor,Normal
+286,1608049810509.0,3000,Aware,Motor,Normal
+287,1608071425460.0,60000,Impaired awareness,Motor,Normal
+288,1608079540494.0,60000,Aware,Motor,Normal
+289,1608505206606.0,60000,Impaired awareness,Motor,Normal
+290,1608507044019.0,60000,Impaired awareness,Motor,Normal
+291,1608514216008.0,60000,Impaired awareness,Motor,Normal
+292,1608517832213.0,60000,Impaired awareness,Motor,Normal
+293,1609020032759.0,60000,Aware,Motor,Normal
+294,1609038012608.0,2000,Aware,Motor,Normal
+295,1609052446310.0,30000,Aware,Motor,Normal
+296,1609057818420.0,30000,Aware,Motor,Normal
+297,1609362025174.0,2000,Aware,Motor,Normal
+298,1609367405350.0,60000,Impaired awareness,Motor,Normal
+299,1609374644224.0,60000,Impaired awareness,Motor,Normal
+300,1609459205566.0,60000,Impaired awareness,Motor,Normal
+301,1609462820585.0,60000,Impaired awareness,Motor,Normal
+302,1610047832433.0,3000,Aware,Motor,Normal
+303,1610049612176.0,3000,Aware,Motor,Normal
+304,1610051404824.0,3000,Aware,Motor,Normal
+305,1610069420551.0,60000,Aware,Motor,Normal
+306,1610094604192.0,60000,Impaired awareness,Motor,Normal
+307,1610427604537.0,60000,Impaired awareness,Motor,Normal
+308,1610521250014.0,60000,Impaired awareness,Motor,Normal
+309,1613264435064.0,60000,Impaired awareness,Motor,Normal
+310,1613268018654.0,60000,Impaired awareness,Motor,Normal
+311,1613300437300.0,60000,Aware,Motor,Normal
+312,1613304051053.0,60000,Impaired awareness,Motor,Normal
+313,1613305842205.0,60000,Aware,Motor,Normal
+314,1633247400000.0,2000,Aware,Non motor,Small
+315,1633366560000.0,60000,Impaired awareness,Motor,Normal
+316,1633378500000.0,2000,,Non motor,Small
+317,1633405500000.0,2000,,Non motor,Small
+318,1633489800000.0,60000,Impaired awareness,Motor,Big
+319,1633491900000.0,10000,,Motor,Small
+320,1633517100000.0,2000,Aware,Non motor,Small
+321,1633592700000.0,2000,Aware,Non motor,Small
+322,1633679100000.0,2000,Aware,Non motor,Small
+323,1633752600000.0,2000,Aware,Non motor,Small
+324,1633841100000.0,2000,Aware,Non motor,Small
+325,1633850400000.0,2000,Aware,Non motor,Small
+326,1633936800000.0,2000,Aware,Non motor,Small
+327,1633986300000.0,2000,Aware,Non motor,Small
+328,1634024400000.0,2000,Aware,Non motor,Small
+329,1634093100000.0,2000,Aware,Non motor,Small
+330,1634112000000.0,0,Aware,Non motor,Small
+331,1634200200000.0,2000,Aware,Non motor,Small
+332,1634298300000.0,2000,Aware,Non motor,Small
+333,1634377380000.0,2000,Aware,Non motor,Small
+334,1634394600000.0,60000,Impaired awareness,Motor,Big
+335,1634470500000.0,2000,Aware,Non motor,Small
+336,1634545500000.0,2000,Aware,Non motor,Small
+337,1634637600000.0,2000,Aware,Non motor,Small
+338,1634726700000.0,2000,Aware,Non motor,Small
+339,1634758260000.0,30000,Impaired awareness,Motor,Normal
+340,1634888400000.0,2000,Aware,Non motor,Small
+341,1634974200000.0,2000,Aware,Non motor,Small
+342,1635043800000.0,2000,Aware,Non motor,Small
+343,1635068400000.0,2000,Aware,Non motor,Small
+344,1635135780000.0,2000,Aware,Non motor,Small
+345,1635160200000.0,2000,Aware,Non motor,Small
+346,1635234900000.0,2000,Aware,Non motor,Small
+347,1635297000000.0,2000,Aware,Non motor,Small
+348,1635407400000.0,0,Aware,Non motor,Small
+349,1635483900000.0,2000,Aware,Non motor,Small
+350,1635583200000.0,2000,Aware,Non motor,Small
+351,1635597000000.0,60000,Impaired awareness,Motor,Big
+352,1635629400000.0,60000,Impaired awareness,Motor,Big
+353,1635651000000.0,60000,Impaired awareness,Motor,Big
+354,1635654600000.0,60000,Impaired awareness,Motor,Big
+355,1635667200000.0,60000,Impaired awareness,Motor,Big
+356,1635669000000.0,60000,Impaired awareness,Motor,Normal
+357,1636014600000.0,10000,Aware,Non motor,Small
+358,1636069500000.0,2000,Aware,Non motor,Small
+359,1636157400000.0,0,Aware,Non motor,Small
+360,1636200600000.0,2000,Aware,Non motor,Small
+361,1636247100000.0,2000,Aware,Non motor,Small
+362,1636283700000.0,2000,Aware,Non motor,Small
+363,1636359600000.0,2000,Aware,Non motor,Small
+364,1636458300000.0,2000,Aware,Non motor,Small
+365,1636540800000.0,2000,Aware,Non motor,Small
+366,1636605000000.0,2000,Aware,Non motor,Small
+367,1636619400000.0,2000,Aware,Non motor,Small
+368,1636693080000.0,2000,Aware,Non motor,Small
+369,1636712100000.0,2000,Aware,Non motor,Small
+370,1636784700000.0,2000,Aware,Non motor,Small
+371,1636805400000.0,60000,Impaired awareness,Motor,Normal
+372,1636837500000.0,60000,Impaired awareness,Motor,Big
+373,1637028300000.0,30000,Impaired awareness,Motor,Big
+374,1637031900000.0,60000,Impaired awareness,Motor,Big
+375,1637044200000.0,60000,Impaired awareness,Motor,Big
+376,1637047800000.0,3000,Aware,Non motor,Small
+377,1637049600000.0,2000,Aware,Non motor,Small
+378,1637053200000.0,60000,Impaired awareness,Motor,Big
+379,1637179200000.0,2000,Aware,Non motor,Small
+380,1637307900000.0,2000,Aware,Non motor,Small
+381,1637513400000.0,30000,Aware,Motor,Normal
+382,1637568000000.0,2000,Aware,Non motor,Small
+383,1637654400000.0,2000,Aware,Non motor,Small
+384,1637719200000.0,2000,Aware,Non motor,Small
+385,1637742000000.0,2000,Aware,Non motor,Small
+386,1637813700000.0,2000,Aware,Non motor,Small
+387,1637827200000.0,2000,Aware,Non motor,Small
+388,1637898000000.0,2000,Aware,Non motor,Small
+389,1637907300000.0,2000,Aware,Non motor,Small
+390,1638039120000.0,60000,Impaired awareness,Motor,Big
+391,1638055800000.0,60000,Impaired awareness,Motor,Big
+392,1638086400000.0,2000,Aware,Non motor,Small
+393,1638321000000.0,2000,Aware,Non motor,Small
+394,1638346320000.0,2000,Aware,Non motor,Small
+395,1638406200000.0,2000,Aware,Non motor,Small
+396,1638414300000.0,2000,Aware,Non motor,Small
+397,1638500400000.0,2000,Aware,Non motor,Small
+398,1638601200000.0,2000,Aware,Non motor,Small
+399,1638657900000.0,60000,Impaired awareness,Motor,Normal
+400,1638692400000.0,2000,Aware,Non motor,Small
+401,1638864000000.0,2000,Aware,Non motor,Small
+402,1638919800000.0,2000,Aware,Non motor,Small
+403,1638937500000.0,2000,Aware,Non motor,Small
+404,1639018200000.0,2000,Aware,Non motor,Small
+405,1639026000000.0,0,Aware,Non motor,Small
+406,1639039800000.0,2000,Aware,Non motor,Small
+407,1639103100000.0,2000,Aware,Non motor,Small
+408,1639122300000.0,2000,Aware,Non motor,Small
+409,1639144800000.0,60000,Aware,Non motor,Big
+410,1639309800000.0,30000,Aware,Non motor,Normal
+411,1639348200000.0,2000,Aware,Non motor,Small
+412,1639521900000.0,60000,Aware,Non motor,Normal
+413,1639523700000.0,60000,Aware,Non motor,Normal
+414,1639540800000.0,60000,Impaired awareness,Motor,Big
+415,1639876500000.0,2000,Aware,,Small
+416,1639900800000.0,2000,Aware,Non motor,Small
+417,1639977000000.0,2000,Aware,Non motor,Small
+418,1640060400000.0,2000,Aware,Non motor,Small
+419,1640087400000.0,2000,Aware,Non motor,Small
+420,1640140200000.0,2000,Aware,Non motor,Normal
+421,1640159400000.0,2000,Aware,Non motor,Small
+422,1640245800000.0,2000,Aware,Non motor,Small
+423,1640331900000.0,2000,Aware,Non motor,Small
+424,1640380200000.0,2000,Aware,Non motor,Small
+425,1640428200000.0,2000,Aware,Non motor,Small
+426,1640485800000.0,2000,Aware,Non motor,Small
+427,1640503500000.0,2000,Aware,Non motor,Small
+428,1640560500000.0,2000,Aware,Non motor,Small
+429,1640589000000.0,2000,Aware,Non motor,Small
+430,1640678400000.0,2000,Aware,Non motor,Small
+431,1640803800000.0,60000,Impaired awareness,Motor,Big
+432,1640981700000.0,60000,Impaired awareness,Motor,Big
+433,1641156900000.0,30000,Aware,Motor,Normal
+434,1641285900000.0,2000,Aware,Non motor,Small
+435,1641348600000.0,2000,Aware,Non motor,Small
+436,1641368400000.0,2000,Aware,Non motor,Small
+437,1641542400000.0,2000,Aware,Non motor,Small
+438,1641684900000.0,2000,Aware,Non motor,Small
+439,1641714300000.0,2000,Aware,Non motor,Small
+440,1641767400000.0,60000,Impaired awareness,Motor,Big
+441,1641774600000.0,60000,Impaired awareness,Motor,Big
+442,1642016700000.0,2000,Aware,Non motor,Small
+443,1642151100000.0,2000,Aware,Non motor,Small
+444,1642319400000.0,2000,Aware,Non motor,Small
+445,1642540500000.0,2000,Aware,Non motor,Small
+446,1642571700000.0,2000,Aware,Non motor,Small
+447,1642665600000.0,2000,Aware,Non motor,Small
+448,1642750200000.0,2000,Aware,Non motor,Small
+449,1642847400000.0,2000,Aware,Non motor,Small
+450,1642905900000.0,2000,Aware,Non motor,Small
+451,1642922100000.0,2000,Aware,Non motor,Small
+452,1643100720000.0,2000,Aware,Non motor,Small
+453,1643183100000.0,2000,Aware,Non motor,Small
+454,1643269800000.0,2000,Aware,Non motor,Small
+455,1643331600000.0,2000,Aware,Non motor,Small
+456,1643332200000.0,60000,Impaired awareness,Motor,Big
+457,1643346900000.0,2000,Aware,Non motor,Small
+458,1643361300000.0,2000,Aware,Non motor,Small
+459,1643440200000.0,2000,Aware,Non motor,Small
+460,1643598900000.0,60000,Aware,Non motor,Big
+461,1643607300000.0,60000,Aware,Non motor,Big
+462,1643702700000.0,2000,Aware,Non motor,Small
+463,1643788800000.0,2000,Aware,Non motor,Small
+464,1643810400000.0,30000,Aware,Non motor,Normal
+465,1643832900000.0,2000,Aware,Non motor,Small
+466,1643835600000.0,30000,Aware,Non motor,Normal
+467,1643876400000.0,2000,Aware,Non motor,Small
+468,1644136500000.0,2000,Aware,Non motor,Small
+469,1644179400000.0,60000,Impaired awareness,Motor,Big
+470,1644223800000.0,2000,Aware,Non motor,Small
+471,1644307200000.0,2000,Aware,Non motor,Normal
+472,1644391800000.0,2000,Aware,Non motor,Small
+473,1644477300000.0,2000,Aware,Non motor,Small
+474,1644547500000.0,2000,Aware,Non motor,Small
+475,1644741000000.0,2000,Aware,Non motor,Small
+476,1644802200000.0,2000,Aware,Non motor,Small
+477,1644807600000.0,2000,Aware,Non motor,Small
+478,1645092000000.0,60000,Impaired awareness,Motor,Big
+479,1645146900000.0,60000,Impaired awareness,Motor,Big
+480,1645149600000.0,60000,Impaired awareness,Motor,Big
+481,1645167600000.0,60000,Impaired awareness,Motor,Big
+482,1645495200000.0,60000,Impaired awareness,Motor,Big
+483,1645499400000.0,60000,Impaired awareness,Motor,Big
+484,1645515000000.0,2000,Aware,Non motor,Small
+485,1645909800000.0,60000,Impaired awareness,,Big
+486,1645917000000.0,2000,Aware,Non motor,Small
+487,1645947600000.0,2000,Aware,Non motor,Small
+488,1653640200000.0,2000,Aware,Non motor,Small
+489,1654021200000.0,40000,Impaired awareness,Motor,Big
+490,1654053000000.0,15000,Aware,Non motor,Small
+491,1654073100000.0,2000,Aware,Non motor,Small
+492,1654159500000.0,2000,Aware,Non motor,Small
+493,1654245420000.0,2000,Aware,Non motor,Small
+494,1654337700000.0,2000,Aware,Non motor,Small
+495,1654401600000.0,2000,Aware,Non motor,Small
+496,1654404600000.0,20000,Aware,Non motor,Normal
+497,1654416900000.0,2000,Aware,Non motor,Small
+498,1654505100000.0,2000,Aware,Non motor,Small
+499,1654553700000.0,2000,Aware,Non motor,Small
+500,1654591500000.0,2000,Aware,Non motor,Small
+501,1654698000000.0,60000,Impaired awareness,Motor,Big
+502,1654716600000.0,50000,Impaired awareness,Motor,Big
+503,1654724400000.0,2000,Aware,Non motor,Small
+504,1654767600000.0,2000,Aware,Non motor,Small
+505,1654852500000.0,2000,Aware,Non motor,Small
+506,1655346600000.0,20000,Impaired awareness,Non motor,Big
+507,1655397000000.0,60000,Impaired awareness,Motor,Big

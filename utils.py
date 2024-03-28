@@ -2,6 +2,9 @@ from scipy.signal import butter, sosfiltfilt
 from datetime import timedelta
 import pandas as pd
 import numpy as np
+import os
+import json
+import pickle
 from astropy import stats as astat
 from pycircstat import tests
 
@@ -113,3 +116,33 @@ def circ_uniformity(phases, N=1000, test = 'omni'):
 
 def round_sig(x, sig=2):
     return round(x, sig-int(np.floor(np.log10(abs(x))))-1)
+
+
+def read_json(file_path: str):
+    """De-serializes file to Python object."""
+    with open(file_path, 'r') as f:
+        return json.load(f)
+
+
+def write_json(data, file_path: str):
+    """Serializes and writes Python object to file."""
+    # ensure dir exists
+    os.makedirs(os.path.dirname(os.path.abspath(file_path)), exist_ok=True)
+    with open(file_path, 'w') as f:
+        json.dump(data, f, indent=True)
+    return data
+
+
+def read_pickle(file_path: str):
+    """Reads pickle file to Python object."""
+    with open(file_path, 'rb') as f:
+        return pickle.load(f)
+
+
+def write_pickle(data, file_path: str):
+    """Writes Python object to pickle file and returns object."""
+    # ensure dir exists
+    os.makedirs(os.path.dirname(os.path.abspath(file_path)), exist_ok=True)
+    with open(file_path, 'wb') as f:
+        pickle.dump(data, f)
+    return data

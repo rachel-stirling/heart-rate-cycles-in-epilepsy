@@ -41,6 +41,7 @@ for patient in used_data:
     # wavelet
     y = df.resample('5Min', on='timestamp').mean().reset_index().value.to_numpy()
     dt = 1/12
+    # alpha = np.corrcoef(y[:-1], y[1:])[0, 1]
     alpha, _, _ = cwt.ar1(y) # lag 1 autocorrelation for significance
     wave, scales, freqs, coi, fft, fftfreqs = cwt.cwt(signal = y, dt = dt, wavelet = mother, freqs = freqs)
     power = np.abs(wave) ** 2
